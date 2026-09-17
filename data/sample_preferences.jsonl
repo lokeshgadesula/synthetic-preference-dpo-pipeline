@@ -1,0 +1,1 @@
+{"prompt":"Create JSON for an analytics dashboard. Required keys: component, title, items.","chosen":"{\"component\": \"panel\", \"title\": \"Analytics Dashboard\", \"items\": [{\"label\": \"Users\"}]}","rejected":"{\"title\": \"dashboard\", \"rows\": [\"x\"]}","chosen_score":1.0,"rejected_score":0.0}
