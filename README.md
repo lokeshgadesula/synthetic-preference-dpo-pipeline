@@ -32,5 +32,3 @@ python -m preference_dpo.train \
   --dataset data/preferences.jsonl \
   --output artifacts/dpo-model
 ```
-
-The generated examples are synthetic. The public repo demonstrates the complete preference-data and DPO training path, but does not claim that structural hallucinations were literally eliminated across arbitrary prompts/models. Report measured adherence from your own saved evaluation run.
